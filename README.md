@@ -1,4 +1,4 @@
-# Selected Projects
+# Portfolio
 
 *A collection of UX/UI Design, Digital Product Design, Graphic Design, and Design Thinking projects.*
 
